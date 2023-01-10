@@ -1,0 +1,16 @@
+.descriptionBlock{
+    padding: 10px;
+    background-color: rgb(85, 26, 194);
+}
+
+.imageBlock img{
+    max-height: 200px;
+    width: 100%;
+    background-color: rgb(233, 18, 18);
+}
+.profileInfo{
+    float: right;
+    margin-right: 40px;
+    font-size: 20px;
+    background-color: #ffc222;
+}
